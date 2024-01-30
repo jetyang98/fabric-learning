@@ -6,6 +6,8 @@ Fabric 学习笔记
 
   files 
   workflows
+  scripts
+  makefile
 
 .. note::
 

@@ -12,6 +12,11 @@
 - **workflows ⽬录**：存放 GitHub Actions ⼯作流程的⽂件。GitHub Actions 允许⾃动化仓库中的⼯作，例如运⾏测试、构建项⽬或部署应⽤程序。⼯作流程⽂件通常存放在 .github/workflows ⽬录下。
 - **PULL_REQUEST_TEMPLATE.md ⽂件**：存放⽤于创建拉取请求（Pull Requests）时的模板⽂件，这些模板可以规范化拉取请求的描述和相关信息。
 
+ci/scripts 目录
+=================
+
+在 ci 目录下，只存在一个名为 scripts 的子目录，用于存放在 GitHub Actions 运行时需要调用的 Bash 脚本。
+
 .dockerignore ⽂件
 ====================
 
