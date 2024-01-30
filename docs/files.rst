@@ -17,6 +17,11 @@ ci/scripts 目录
 
 在 ci 目录下，只存在一个名为 scripts 的子目录，用于存放在 GitHub Actions 运行时需要调用的 Bash 脚本。
 
+Makefile 文件
+===============
+
+Makefile 文件提供了对项目的多种操作命令，例如 clean（清除 build 文件夹）、basic-checks（执行基本检查）、orderer（构建本地 orderer 二进制文件）、unit-test（单元测试） 等。
+
 .dockerignore ⽂件
 ====================
 
