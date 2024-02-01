@@ -4,6 +4,8 @@ ci/scripts 目录
 
 .. contents:: 
 
+在 ci 目录下，只存在一个名为 scripts 的子目录，用于存放在 GitHub Actions 运行时需要调用的 Bash 脚本。
+
 create_binary_package.sh 文件
 ================================
 

@@ -2,13 +2,18 @@
 Fabric 学习笔记
 ****************
 
+.. note::
+
+  学习的源码是 `Fabric v2.5.5 <https://github.com/hyperledger/fabric/tree/v2.5.5>`_。
+
 .. toctree::
 
-  files 
   workflows
   scripts
   makefile
 
-.. note::
+  vagrant
+  vendor
 
-  学习的源码是 `Fabric v2.5.5 <https://github.com/hyperledger/fabric/tree/v2.5.5>`_。
+  tox
+  other_files

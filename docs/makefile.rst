@@ -4,7 +4,7 @@ Makefile 文件
 
 .. contents:: 
 
-`文件链接 <https://github.com/hyperledger/fabric/blob/v2.5.5/Makefile>`__。
+`文件链接 <https://github.com/hyperledger/fabric/blob/v2.5.5/Makefile>`__。Makefile 文件提供了对项目的多种操作命令，例如 clean（清除 build 文件夹）、basic-checks（执行基本检查）、orderer（构建本地 orderer 二进制文件）、unit-test（单元测试） 等。
 
 什么是 Makefile 文件
 =====================
