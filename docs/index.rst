@@ -14,26 +14,26 @@ Fabric 学习笔记
   :caption: Hyperledger Fabric
   :maxdepth: 1
 
-  fabric
+  fabric/index
 
-  workflows
-  scripts
-  makefile
+  fabric/workflows
+  fabric/scripts
+  fabric/makefile
 
-  vagrant
-  vendor
+  fabric/vagrant
+  fabric/vendor
 
-  tox
-  other_files
+  fabric/tox
+  fabric/other_files
 
 .. toctree::
   :caption: Hyperledger Fabric Samples
   :maxdepth: 1
 
-  fabric_samples
+  fabric_samples/index
 
 .. toctree::
   :caption: Fabric CA
   :maxdepth: 1
 
-  fabric_ca
+  fabric_ca/index
