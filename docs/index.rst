@@ -31,6 +31,7 @@ Fabric 学习笔记
   :maxdepth: 1
 
   fabric_samples/index
+  fabric_samples/test_network
 
 .. toctree::
   :caption: Fabric CA
